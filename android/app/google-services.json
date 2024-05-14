@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518829172013",
+    "project_id": "flutter-bloc-loin-photolibrary",
+    "storage_bucket": "flutter-bloc-loin-photolibrary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518829172013:android:3517a0c74b79e566c7dfa4",
+        "android_client_info": {
+          "package_name": "com.example.login_firebase_bloc_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFp4JycfcVcuUjrntAP74MxTMjRtmzRDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
